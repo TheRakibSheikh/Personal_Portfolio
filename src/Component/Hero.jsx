@@ -2,7 +2,7 @@ import React from 'react';
 
 import HeroPic from '../assets/Hero.png';
 import ReactLogo from '../assets/react.png';
-import ReduxLogo from '../assets/Redux.png';
+import ReduxLogo from '../assets/redux.png';
 import TailwindLogo from '../assets/Tailwind.png';
 import Facebook from '../assets/Facebook.png';
 import Twtter from '../assets/Twtter.png';
