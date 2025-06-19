@@ -1,6 +1,6 @@
 import React from 'react';
 
-import HeroPic from '../assets/HeroPic.jpg';
+import HeroPic from '../assets/HeroPic.png';
 import ReactLogo from '../assets/react.png';
 import ReduxLogo from '../assets/redux.png';
 import TailwindLogo from '../assets/Tailwind.png';
